@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GamerProfile.App/GamerProfile.App.csproj" />
+  <Project Path="GamerProfile.Tests/GamerProfile.Tests.csproj" />
+</Solution>
